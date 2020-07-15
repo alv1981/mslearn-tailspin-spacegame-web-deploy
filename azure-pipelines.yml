@@ -68,6 +68,6 @@ stages:
       displayName: 'Publish NuGet package'
       inputs:
         command: push
-        publishVstsFeed: 'Artifacts/balto82'
+        publishVstsFeed: 'az400/balto82'
         allowPackageConflicts: true
       condition: succeeded()
