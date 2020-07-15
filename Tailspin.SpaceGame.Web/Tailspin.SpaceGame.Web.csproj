@@ -12,4 +12,5 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\avatars\" />
   </ItemGroup>
+  <IsPackable>true</IsPackable>
 </Project>
