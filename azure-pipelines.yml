@@ -68,6 +68,6 @@ stages:
       displayName: 'Publish NuGet package'
       inputs:
         command: push
-        publishVstsFeed: 'Artifacts/Tailspin.SpaceGame.Web.Models'
+        publishVstsFeed: 'Artifacts/balto82'
         allowPackageConflicts: true
       condition: succeeded()
